@@ -9,7 +9,7 @@ import {
 import Home from "./Pages/Home";
 import About from "./Pages/About";
 import PageNotFound from "./Utility/PageNotFound";
-import { Layout } from "./Layout";
+import { Layout } from "./Layout/Index";
 
 import { VanDetail, Vans, vansLoader, VDloader } from "./Pages/Vans/Index";
 
